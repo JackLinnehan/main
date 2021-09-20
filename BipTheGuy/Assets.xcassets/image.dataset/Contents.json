@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "image",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
